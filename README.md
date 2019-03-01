@@ -2,7 +2,7 @@
 
 PyTorch implementation of [Learning to Discover Cross-Domain Relations with Generative Adversarial Networks](https://arxiv.org/abs/1703.05192).
 
-<img src="./assets/model.png" width="80%">
+<img src="./Desktop/DiscoGAN_Model.png" width="80%">
 
 **\* All samples in README.md are genearted by neural network except the first image for each row.**  
 \* Network structure is slightly diffferent ([here](https://github.com/carpedm20/DiscoGAN-pytorch/blob/master/models.py#L13-L32)) from the author's [code](https://github.com/SKTBrain/DiscoGAN/blob/master/discogan/model.py#L69-L125).
